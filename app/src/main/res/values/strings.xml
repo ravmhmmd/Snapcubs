@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Snapcubs</string>
+    <string name="temp_email">Email</string>
+    <string name="temp_password">Password</string>
+    <string name="temp_login">Login</string>
+    <string name="temp_name">Name</string>
+    <string name="temp_register">Register</string>
+    <string name="temp_desc">Deskripsi</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="hint_email">Masukkan email</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="hint_name">Masukkan nama</string>
+    <string name="detail_foto">Detail Foto</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba Ulang</string>
+</resources>
